@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "name": "cr7-wordcounting",
+  "version": "1.2.0",
+  "main": "app.js",
+  "type": "module",
+  "bin": {
+    "cr7-wordcounting": "app.js"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Salman",
+  "license": "ISC",
+  "description": ""
+}
